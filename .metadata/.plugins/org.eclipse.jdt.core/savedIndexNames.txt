@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+C:\Users\Luka Rudan\Desktop\JAVA -vežbanje-\uvod String\String Balancing\.metadata\.plugins\org.eclipse.jdt.core
+992168429.index
+3175561551.index
+1865797976.index
+1045598230.index
